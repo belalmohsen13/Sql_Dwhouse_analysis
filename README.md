@@ -32,3 +32,4 @@ This project focuses on analyzing and managing data in a Data Warehouse (DWH) us
 - **MySQL / PostgreSQL** – For managing the database.
 - **DBeaver / pgAdmin** – For executing and managing SQL queries.
 - **Python (Optional)** – For advanced data manipulation.
+![Screenshot 2025-03-02 190403](https://github.com/user-attachments/assets/023eef85-6c5d-43e4-82c5-4e0cd393a34c)
